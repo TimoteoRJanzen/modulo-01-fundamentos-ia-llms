@@ -4,4 +4,6 @@ Repositório com exemplos práticos do módulo.
 
 ## Estrutura
 
-- exemplo-00 → Introdução ao TensorFlow.js e ML
+- exemplo-00 → Machine Learning: Introdução ao TensorFlow.js e redes neurais
+
+- exemplo-01 → DeepLearning: Sistema de recomendação
