@@ -6,4 +6,4 @@ Repositório com exemplos práticos do módulo.
 
 - exemplo-00 → Machine Learning: Introdução ao TensorFlow.js e redes neurais
 
-- exemplo-01 → DeepLearning: Sistema de recomendação
+- exemplo-01 → DeepLearning: Sistema de recomendação de produtos baseado em compras dos usuários
