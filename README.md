@@ -9,3 +9,5 @@ Repositório com exemplos práticos do módulo.
 - exemplo-01 → DeepLearning: Sistema de recomendação de produtos baseado em compras dos usuários
 
 - exemplo-02 → Web Machine Learning: Ensinando a vencer um jogo usando identificador de imagens (modelo yolo)
+
+- exemplo-03 → Inteligencia artificial na Web com Web AI
