@@ -10,4 +10,6 @@ Repositório com exemplos práticos do módulo.
 
 - exemplo-02 → Web Machine Learning: Ensinando a vencer um jogo usando identificador de imagens (modelo yolo)
 
-- exemplo-03 → Inteligencia artificial na Web com Web AI
+- exemplo-03 → Inteligencia artificial integrada na Web com Web AI
+
+- exemplo-04 → Versão expandida (Web AI) com parâmetros ajustáveis (Temperature e Top-K) para demonstrar como diferentes configurações influenciam o comportamento do modelo.
