@@ -13,3 +13,5 @@ Repositório com exemplos práticos do módulo.
 - exemplo-03 → Inteligencia artificial integrada na Web com Web AI
 
 - exemplo-04 → Versão expandida (Web AI) com parâmetros ajustáveis (Temperature e Top-K) para demonstrar como diferentes configurações influenciam o comportamento do modelo.
+
+- exemplo-5 → Versão expandida (Web AI) com entradas multimodais (texto / áudio / imagem)
